@@ -1,0 +1,11 @@
+pip
+wheel
+attrs
+pytest
+pluggy
+exceptiongroup
+iniconfig
+pyparsing
+setuptools
+allure-pytest
+selene
