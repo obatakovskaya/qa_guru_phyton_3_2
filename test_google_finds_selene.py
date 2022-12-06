@@ -10,5 +10,8 @@ def test_g_finds(open_browser):
 
 
 def test_g_findes2(open_browser):
-    browser.element('[name=q][type="text"]').should(be.blank).type('selene').press_enter()
-    browser.element('[id="search"]').should(have.text('dsfsdfsdfsdfsf'))
+    browser.element('[name="q"]').should(be.blank).type('))))))//////').press_enter()
+    browser.element('[id="rcnt"]').should(have.text("ничего не найдено"))
+
+
+

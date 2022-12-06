@@ -1,11 +1,11 @@
 pip
 wheel
 attrs
-pytest
+pytest == 7.2.0
 pluggy
 exceptiongroup
 iniconfig
 pyparsing
 setuptools
 allure-pytest
-selene
+selene == 2.0.0.0b16
