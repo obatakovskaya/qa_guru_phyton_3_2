@@ -1,2 +1,2 @@
-def test_olga(preparing_list):
+def test(preparing_list):
   print(preparing_list)
